@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { FaCopyright } from 'react-icons/fa'
 import Hero from '../assets/kash.jpg'
-import resume from '../Resume/resume.pdf'
+import resume from '../Resume/kashish_kataria.pdf'
 import Aos from 'aos'
 import "aos/dist/aos.css";
 const HeroSection = () => {
