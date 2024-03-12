@@ -19,7 +19,7 @@ const Contact = () => {
 
   ]
   return (
-    <section data-aos='zoom-in-down' className='px-2 md:px-0 w-full md:h-[80vh] h-screen   justify-center text-center'>
+    <section data-aos='zoom-in-down' className='px-2 md:px-0 w-full md:h-[80vh] h-auto justify-center text-center'>
       <h1 className='md:text-[150px] text-7xl text-center md:text-center font-[600] uppercase tracking-tighter leading-tight lineheight my-5'>Lets Work<br />
         Together</h1>
       <p className='text-lg font-[500]  '>Contact me for more Information</p>
